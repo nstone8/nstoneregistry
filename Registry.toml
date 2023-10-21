@@ -1,6 +1,6 @@
 name = "nstoneregistry"
 uuid = "b1f20ac8-61bc-48dc-96ef-46caab193ef0"
-repo = "http://github.com/nstone8/nstoneregistry"
+repo = "https://github.com/nstone8/nstoneregistry"
 
 [packages]
 032a2897-498d-4ece-9283-114705a306b4 = { name = "Chinet", path = "C/Chinet" }
