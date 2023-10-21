@@ -4,4 +4,5 @@ repo = "http://github.com/nstone8/nstoneregistry"
 
 [packages]
 032a2897-498d-4ece-9283-114705a306b4 = { name = "Chinet", path = "C/Chinet" }
+5988455b-e7cf-4aac-8dac-baf68a99dbc5 = { name = "QuantStudio", path = "Q/QuantStudio" }
 a5253c47-3b47-401b-8203-180358aa4e2a = { name = "Delta2", path = "D/Delta2" }

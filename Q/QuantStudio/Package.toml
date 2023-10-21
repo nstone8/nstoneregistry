@@ -1,0 +1,3 @@
+name = "QuantStudio"
+uuid = "5988455b-e7cf-4aac-8dac-baf68a99dbc5"
+repo = "https://github.com/nstone8/QuantStudio.jl"
