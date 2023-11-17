@@ -1,0 +1,3 @@
+name = "PointDensityPlots"
+uuid = "9f67d30b-7d66-4ece-951a-d199622dd275"
+repo = "https://github.com/nstone8/PointDensityPlots.jl"
