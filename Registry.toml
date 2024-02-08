@@ -5,6 +5,7 @@ repo = "https://github.com/nstone8/nstoneregistry"
 [packages]
 032a2897-498d-4ece-9283-114705a306b4 = { name = "Chinet", path = "C/Chinet" }
 075f01f5-5a08-42fe-8034-8ba17c561f6c = { name = "Tessen", path = "T/Tessen" }
+12514ac0-2501-4d25-a658-60c223cc758c = { name = "Delica", path = "D/Delica" }
 5988455b-e7cf-4aac-8dac-baf68a99dbc5 = { name = "QuantStudio", path = "Q/QuantStudio" }
 932adbb0-91d4-4af7-8e1a-09270b47ecba = { name = "Strudel", path = "S/Strudel" }
 9995961a-b609-4a7c-a027-532616047065 = { name = "CupaJo", path = "C/CupaJo" }
