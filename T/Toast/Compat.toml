@@ -1,0 +1,9 @@
+[0]
+Ahmes = "0.1.5 - 0.1"
+Delica = "0.1"
+Hexagons = "0.2"
+LinearAlgebra = "1.11.0 - 1"
+Meshes = "0.53.4 - 0.53"
+Statistics = "1.11.1 - 1"
+Tessen = "0.2"
+Unitful = "1.22.0 - 1"
