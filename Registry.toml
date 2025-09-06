@@ -15,6 +15,7 @@ repo = "https://github.com/nstone8/nstoneregistry"
 9995961a-b609-4a7c-a027-532616047065 = { name = "CupaJo", path = "C/CupaJo" }
 9f67d30b-7d66-4ece-951a-d199622dd275 = { name = "PointDensityPlots", path = "P/PointDensityPlots" }
 a5253c47-3b47-401b-8203-180358aa4e2a = { name = "Delta2", path = "D/Delta2" }
+afce657e-2d8e-41fb-8ae7-e8fa2da28d11 = { name = "StandardCurves", path = "S/StandardCurves" }
 d7e13037-544e-446f-97a1-240955fde5ba = { name = "Recluse", path = "R/Recluse" }
 e7f9bf38-9811-4749-971f-6614621a1be4 = { name = "Logicle", path = "L/Logicle" }
 f62dbe71-e6a6-4df2-9a5f-437c1dc4c8cd = { name = "Waffle", path = "W/Waffle" }
