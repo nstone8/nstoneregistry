@@ -1,0 +1,3 @@
+name = "TSL2591"
+uuid = "78d368c2-7583-4b1e-891b-543a6de6e000"
+repo = "https://github.com/nstone8/TSL2591.jl"
