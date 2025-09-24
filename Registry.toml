@@ -6,6 +6,7 @@ repo = "https://github.com/nstone8/nstoneregistry"
 032a2897-498d-4ece-9283-114705a306b4 = { name = "Chinet", path = "C/Chinet" }
 075f01f5-5a08-42fe-8034-8ba17c561f6c = { name = "Tessen", path = "T/Tessen" }
 12514ac0-2501-4d25-a658-60c223cc758c = { name = "Delica", path = "D/Delica" }
+21363b03-61ef-4d89-813f-80ecd0f21085 = { name = "BlinkaBoards", path = "B/BlinkaBoards" }
 5988455b-e7cf-4aac-8dac-baf68a99dbc5 = { name = "QuantStudio", path = "Q/QuantStudio" }
 69ae5839-fd2b-44f9-9ab5-9d3f4e3a022f = { name = "Toast", path = "T/Toast" }
 85469bc7-e4c2-476b-92ae-566ea23def65 = { name = "Pancake", path = "P/Pancake" }
