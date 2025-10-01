@@ -1,0 +1,5 @@
+[0]
+CSVFiles = "1.0.2 - 1"
+DataFrames = "1.8.0 - 1"
+FileIO = "1.17.0 - 1"
+REPL = "1.11.0 - 1"
