@@ -24,4 +24,5 @@ d735d23b-fc84-422d-8d21-ea379f0eb4a3 = { name = "Turby", path = "T/Turby" }
 d7e13037-544e-446f-97a1-240955fde5ba = { name = "Recluse", path = "R/Recluse" }
 dfbbc853-7c4d-49ea-bc33-d91a2e33151b = { name = "Grader", path = "G/Grader" }
 e7f9bf38-9811-4749-971f-6614621a1be4 = { name = "Logicle", path = "L/Logicle" }
+ed8126b3-87e9-4bd8-83f0-a3069bea9f18 = { name = "TurbyGUI", path = "T/TurbyGUI" }
 f62dbe71-e6a6-4df2-9a5f-437c1dc4c8cd = { name = "Waffle", path = "W/Waffle" }
