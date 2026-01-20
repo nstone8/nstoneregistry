@@ -1,0 +1,3 @@
+name = "LSM6DS"
+uuid = "79bcc3f4-dd36-4f4f-b281-3a26a374f326"
+repo = "https://github.com/nstone8/LSM6DS.jl"

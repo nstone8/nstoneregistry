@@ -11,6 +11,7 @@ repo = "https://github.com/nstone8/nstoneregistry"
 69ae5839-fd2b-44f9-9ab5-9d3f4e3a022f = { name = "Toast", path = "T/Toast" }
 707c5d59-d629-46d8-926b-ce9800519990 = { name = "PCA9685", path = "P/PCA9685" }
 78d368c2-7583-4b1e-891b-543a6de6e000 = { name = "TSL2591", path = "T/TSL2591" }
+79bcc3f4-dd36-4f4f-b281-3a26a374f326 = { name = "LSM6DS", path = "L/LSM6DS" }
 85469bc7-e4c2-476b-92ae-566ea23def65 = { name = "Pancake", path = "P/Pancake" }
 8b92ad99-622a-4a49-8522-837eeba52978 = { name = "Ahmes", path = "A/Ahmes" }
 932adbb0-91d4-4af7-8e1a-09270b47ecba = { name = "Strudel", path = "S/Strudel" }
